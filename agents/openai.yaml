@@ -1,0 +1,6 @@
+interface:
+  display_name: "光郡素材发现"
+  short_description: "本地拍摄与录屏优先，按用途核验来源许可，审片后输出可剪辑素材和时间码"
+  default_prompt: "使用 $asset-discovery 分析我的脚本，从指定本地目录及Pexels、Pixabay、Mixkit 等经过许可核验的来源寻找素材，审片后输出片段、时间码和剪辑清单。"
+policy:
+  allow_implicit_invocation: true

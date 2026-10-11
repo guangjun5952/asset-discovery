@@ -1,0 +1,14 @@
+{
+  "provider": "mixkit",
+  "source_page": "https://mixkit.co/free-stock-video/替换为实际条目/",
+  "title": "替换为素材标题",
+  "author": "按页面记录作者；未展示则留空",
+  "license_id": "mixkit-video-free",
+  "license_url": "https://mixkit.co/license/modal/videoFree/",
+  "license_observed_text": "替换为实际条目所选下载版本显示的许可文字，不要照抄占位内容",
+  "variant": "替换为实际下载选项及分辨率",
+  "checked_at": "替换为实际检查的ISO日期时间",
+  "sha256": "替换为实际文件SHA256",
+  "evidence_file": "替换为实际页面截图或保存文本的路径",
+  "reviewed": false
+}
